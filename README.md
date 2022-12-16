@@ -1,7 +1,4 @@
-# PA7: TREES (C++)
-Diwa Ashwini Vittala    
-dashwini
-
+# BINARY SEARCH TREES (C++) [CSE 101]
 ## Assignment details
 The Order.cpp program takes in an input file and sorts all the lines in alphabetical order.    
 
